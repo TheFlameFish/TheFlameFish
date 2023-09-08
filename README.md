@@ -1,4 +1,8 @@
-### Hello Gordan!
+## Hello Gordan!
+I tinker with various things, mainly including:
+- Various electronics (Raspberry Pi),
+- Game Development,
+- Web development.
 
 <!--
 **TheFlameFish/TheFlameFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
