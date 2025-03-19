@@ -1,4 +1,4 @@
-## Hello Gordan!
+## Hello Gordon!
 I tinker with various things, mainly including:
 - Various electronics (Raspberry Pi),
 - Game Development,
