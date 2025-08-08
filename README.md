@@ -2,7 +2,8 @@
 I mess about with various things, mainly including:
 - Various electronics (e.g. Raspberry Pi),
 - Game Development,
-- Web development.
+- Robotics,
+- Essentially whatever I feel like doing at a given moment :p
 
 <!--
 **TheFlameFish/TheFlameFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
