@@ -1,4 +1,3 @@
-## Hello, Gordon!
 I mess about with various things, mainly including:
 - Various electronics (e.g. Raspberry Pi),
 - Game Development,
