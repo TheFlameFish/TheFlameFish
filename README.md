@@ -3,6 +3,8 @@ I mess about with various things; essentially whatever I feel like doing at a gi
 Newbie Linux user; ~~Arch~~ Fedora btw
 
 ![A retro-styled blinky with the word "Gender" in bold text on fire](https://64.media.tumblr.com/2e900abcdfbc47295d6cfdc4dd0fec8d/02cc28bfc0a462a7-c3/s250x400/3d1317859d4fb58ceaaafd60102c7229c0914661.gifv)
+
+<sub>Hmm... this README thingy is a proper repo. <br />It'd be really silly if I put an actual project in here...</sub>
 <!--
 **TheFlameFish/TheFlameFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
